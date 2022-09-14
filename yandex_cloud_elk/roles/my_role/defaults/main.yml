@@ -1,0 +1,4 @@
+---
+# defaults file for my_role
+test_path: "/tmp/test1.txt"
+test_content: "Hello, my freind!\n"

@@ -1,0 +1,6 @@
+---
+    my_test:
+      hosts:
+        mytest:
+          ansible_host: 51.250.6.111
+          ansible_user: centos

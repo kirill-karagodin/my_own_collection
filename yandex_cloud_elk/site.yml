@@ -1,0 +1,6 @@
+---
+- name: Test my_own_module in yandex.cloud
+  hosts:
+    - mytest
+  roles:
+    - my_role
