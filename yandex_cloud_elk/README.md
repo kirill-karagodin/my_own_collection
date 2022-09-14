@@ -4,9 +4,9 @@
 * name: yandex_cloud_elk
 * version: 1.0.0
 * readme: README.md 
-* authors: Kirill Karagodin karagodin.kirill.a@ya.ru
-    description: This is a test role for ansible-collection
-    repository: https://github.com/kirill-karagodin/my_own_collection
+* authors: Kirill Karagodin karagodin.kirill.a@ya.ru 
+* description: This is a test role for ansible-collection 
+* repository: https://github.com/kirill-karagodin/my_own_collection
 
 ## О роли:
 
